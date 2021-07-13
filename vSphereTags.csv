@@ -4,7 +4,7 @@
 "StorageType","Local",""
 "StorageType","Nested",""
 "StorageType","SynologyDS1817+_core-stor02",""
-"T115-DatastoreTags","Test",""
+"T115-DatastoreTags","Test","Test tag for Azure DevOps T115 task."
 "VMBackup","0500-Daily-IND",""
 "VMBackup","0600-Daily-IND",""
 "VMBackup","0700-Daily-IND",""
