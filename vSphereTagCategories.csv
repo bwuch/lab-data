@@ -4,6 +4,3 @@
 "T115-DatastoreTags","Single","DatastoreCluster,Datastore",""
 "VMBackup","Single","VirtualMachine","Virtual Machine backup policy.  Entered in format ""hhmm-Frequency-Destination""  For example, ""0700-Daily-IND"" would be a job that starts at 7AM every day to Indianapolis storage, while ""1700-Friday-CLE"" would be a job that starts at 5 PM every Friday to Cleveland storage."
 "VMRole","Single","VirtualMachine","The type of application on the VM"
-"vSANDirectStorage","Multiple","Datastore",""
-"VsphereIntegratedContainers","Single","VirtualMachine","VIC product"
-"vSphereReplication","Single","All","vSphere Replication Category (do not rename)"
